@@ -83,5 +83,11 @@ Example:
 
 
 In KDE Plasma, you can create a rule to simulate window overlay so that it stays on top of a fullscreen window (a popup window opens when you press ALT+F3).
-https://github.com/user-attachments/assets/4c03ccdf-1636-4349-b80d-e08d443a164a
+
+
+
+https://github.com/user-attachments/assets/39c6fe31-fbb8-44cd-b3fa-0e3a413de84f
+
+
+
 
