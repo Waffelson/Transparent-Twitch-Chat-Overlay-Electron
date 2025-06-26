@@ -82,7 +82,6 @@ Example:
 ```electron file_name.js```
 
 
-On KDE Plasma you can make window rule to simulate it is overlay to keep this over fullscreen window (popup window opens with ALT+F3)
-
+In KDE Plasma, you can create a rule to simulate window overlay so that it stays on top of a fullscreen window (a popup window opens when you press ALT+F3).
 https://github.com/user-attachments/assets/4c03ccdf-1636-4349-b80d-e08d443a164a
 
