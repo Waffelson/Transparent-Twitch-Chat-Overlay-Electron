@@ -80,3 +80,9 @@ Example:
  launching everywhere except wayland
 
 ```electron file_name.js```
+
+
+On KDE Plasma you can make window rule to simulate it is overlay to keep this over fullscreen window (popup window opens with ALT+F3)
+
+https://github.com/user-attachments/assets/4c03ccdf-1636-4349-b80d-e08d443a164a
+
